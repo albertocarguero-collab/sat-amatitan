@@ -767,6 +767,3 @@ with tab_metodo:
         **Nota:** El sistema debe validarse con registros locales de campo, calendario agrícola, rendimientos y reportes de afectación.
         """
     )
-
-st.markdown("---")
-st.caption("MIALEMPA agente IA CRL sobre la Cuenca del río Lempa, El Salvador.")
