@@ -9,3 +9,4 @@ scipy
 matplotlib
 scikit-learn
 earthengine-api
+geemap
